@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:diamond_sword"},
+    "X": {"item": "minecraft:diamond_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

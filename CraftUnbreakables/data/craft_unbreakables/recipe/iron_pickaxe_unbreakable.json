@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:iron_pickaxe"},
+    "X": {"item": "minecraft:iron_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

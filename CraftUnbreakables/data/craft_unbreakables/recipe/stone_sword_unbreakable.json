@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:stone_sword"},
+    "X": {"item": "minecraft:cobblestone"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:golden_hoe"},
+    "X": {"item": "minecraft:gold_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

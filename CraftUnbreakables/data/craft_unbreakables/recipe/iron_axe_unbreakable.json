@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:iron_axe"},
+    "X": {"item": "minecraft:iron_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

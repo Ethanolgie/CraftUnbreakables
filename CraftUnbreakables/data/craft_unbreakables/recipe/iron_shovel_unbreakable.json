@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:iron_shovel"},
+    "X": {"item": "minecraft:iron_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:netherite_shovel"},
+    "X": {"item": "minecraft:netherite_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

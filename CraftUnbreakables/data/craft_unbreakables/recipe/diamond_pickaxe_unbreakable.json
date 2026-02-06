@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "minecraft:diamond_pickaxe"},
+    "X": {"item": "minecraft:diamond_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}
