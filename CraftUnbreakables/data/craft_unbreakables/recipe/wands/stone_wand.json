@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "wands:stone_wand"},
+    "X": {"item": "minecraft:cobbled_deepslate"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wands:stone_wand",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

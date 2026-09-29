@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "wands:diamond_wand"},
+    "X": {"item": "minecraft:diamond_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wands:diamond_wand",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

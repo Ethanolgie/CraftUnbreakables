@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "wands:netherite_wand"},
+    "X": {"item": "minecraft:netherite_block"}
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "wands:creative_wand",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

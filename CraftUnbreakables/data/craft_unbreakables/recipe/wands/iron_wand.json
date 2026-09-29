@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "wands:iron_wand"},
+    "X": {"item": "minecraft:iron_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wands:iron_wand",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {"item": "wands:copper_wand"},
+    "X": {"item": "minecraft:copper_block"}
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wands:copper_wand",
+    "components": {
+      "minecraft:unbreakable": {}
+    }
+  }
+}
